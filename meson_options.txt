@@ -1,0 +1,2 @@
+option('enable-gtk2', type: 'boolean', value: false, description: 'Enable GTK2 [default=no]')
+option('disable-deprecated', type: 'boolean', value: false, description: 'Disable deprecated GTK functions')
